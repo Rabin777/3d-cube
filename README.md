@@ -1,2 +1,3 @@
 # 3d-cube
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/92663544/228601071-a232c026-7907-4b18-bbdf-0f1bdf6d9c30.png">
+<img width="814" alt="image" src="https://user-images.githubusercontent.com/92663544/228601777-56048f9d-47c4-4502-b8ef-46b4fd4af86d.png">
+
